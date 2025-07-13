@@ -17,8 +17,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # suitmedia-mobile-test
+Aplikasi tes untuk Suitmedia menggunakan Flutter.
 
+<<<<<<< HEAD
 ## Suitmedia Mobile Developer Intern Test
 
 Flutter app for palindrome check and user listing using reqres.in API.
 >>>>>>> b9338489bae8a4c2944d9c4efce0bd6554fbc4d1
+=======
+>>>>>>> a8f38cfccb1f567857307d32a4a10f36bb3a8436
