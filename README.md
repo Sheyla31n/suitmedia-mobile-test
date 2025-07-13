@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # suitmedia_test
 
 A new Flutter project.
@@ -14,3 +15,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# suitmedia-mobile-test
+
+## Suitmedia Mobile Developer Intern Test
+
+Flutter app for palindrome check and user listing using reqres.in API.
+>>>>>>> b9338489bae8a4c2944d9c4efce0bd6554fbc4d1
